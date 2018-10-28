@@ -10,8 +10,20 @@
     "test:e2e": "vue-cli-service test:e2e"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.4",
+    "@fortawesome/free-solid-svg-icons": "^5.3.1",
+    "@fortawesome/vue-fontawesome": "^0.1.1",
+    "axios": "^0.18.0",
+    "es6-promise": "^4.2.5",
+    "hotkeys": "^1.0.0",
+    "iview": "^3.1.1",
+    "konva": "^2.4.0",
+    "lodash": "^4.17.11",
     "vue": "^2.5.17",
+    "vue-konva": "^1.0.7",
     "vue-router": "^3.0.1",
+    "vue-wait": "^1.3.2",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
